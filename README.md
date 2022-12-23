@@ -71,7 +71,7 @@ Fig. 3 - Undersampling Evaluation
 **Undersampling vs Oversampling** <br/> 
 Even though detecting high risk is more important than detecting low risk. The undersampling algorithm is predicting 10500 from 17104 as being high risk while there are low risk cases. This will put more work on employees to re-study this huge number of False positive high risk loans. Moreover, the balanced accuracy score of this model is the lower than both oversampling algorithms, which is another reason to rule this model out. 
 
-## Forth Model: Combination (Over and Under) Sampling
+## Fourth Model: Combination (Over and Under) Sampling
 <p align = "center">
 <img width="499" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/109363759/209244844-07b8a5fa-4b29-4b59-baa5-96eb99811b7b.png">
 </p>
